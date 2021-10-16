@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+div{
+    display: block;
+}
+
+
+.logoContainer{
+    width: 100%;
+    margin-top: 15px;
+}
+
+.logoContainer img{
+    display: block;
+    width: 350px;
+    height: 110px;
+    margin: 0 auto;
+}
+#search-bar{
+    display: block;
+    width: 1133px;
+    height: 63px;
+    margin: 0 auto 0;
+    background-color: #EEEEEE;
+}
+input[type=text]{
+    width: 293px;
+    height: 21px;
+    box-sizing: border-box;
+}
+
+input[type=text], label{
+    display: block;
+    margin: 0 auto 0;
+    text-align: center;
+}
+
+label{
+    cursor: default;
+}
+
+.button{
+    text-align: center;
+}
+
+
+.footerWrapper {
+    width: 1133px;
+    height: 75px;
+    margin: 2px auto;
+}
+
+.kolon1{
+    display: block;
+    background-color: #7EE6DA;
+    width: 417px;
+    height: 75px;
+    float: left;
+    text-align: center;
+}
+.kolon1>p{
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+p{
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.kolon2 {
+    width: 243px;
+    height: 75px;
+    float: left;
+    text-align: center;
+    margin: 0 2px 0 2px;
+    background-color: #70CCC3;
+}  
+
+.kolon2>a{
+    font-size: 12px;
+}
+
+.kolon3{
+    background-color: #62B3AB;
+    width: 469px;
+    height: 75px;
+    float: left;
+}
+
+.kolon3>p{
+    text-align: center;
+    font-size: 14px;
+    margin: 0 !important;
+    padding: 0px;
+}
+
+.kolon3>form{
+    text-align: center;
+
+}
+
+form{
+    display: block;
+    margin-top: 0em;
+}
+
+#Copyright{
+    font-size: 13px;
+    text-align: center;
+    margin-top: 16px;
+    display: block;
+   
+}
+
+
+
